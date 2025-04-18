@@ -9,6 +9,9 @@ void main() {
     "Yasir",
     "Hamza",
     "Zubair",
+    "Haris",
+    "Majid",
+    "Sajid",
   ];
   runApp(
     MaterialApp(
