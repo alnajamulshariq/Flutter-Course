@@ -26,7 +26,7 @@ class _SplashPageState extends State<SplashPage> {
     return Scaffold(
       body: Center(
         child: Container(
-          color: Colors.blue.shade400,
+          color: Colors.blue,
           child: Text(
             "Hello Shariq",
             style: TextStyle(fontSize: 34, color: Colors.white),
